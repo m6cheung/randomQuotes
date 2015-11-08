@@ -1,0 +1,54 @@
+body {
+  background: url("https://static.pexels.com/photos/8884/pexels-photo.jpeg") no-repeat center center fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+#quoteArea {
+  width: 90%;
+  height: 200px;
+  border: 2px solid black;
+  margin-bottom: 20px;
+  margin-left: 5%;
+  background: none;
+  box-shadow: 10px 10px 10px black;
+}
+
+#quote {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
+  margin: auto;
+}
+
+.btn {
+  width: 250px;
+  height: 50px;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  background: #2E2965;
+  padding-top: 9px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+
+#buttonDiv {
+  text-align: center;
+}
+
+.intro {
+  text-align: center;
+  font-size: 40px;
+  color: black;
+}
+
+#brief {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
