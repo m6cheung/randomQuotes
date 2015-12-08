@@ -29,7 +29,7 @@ var quotes = [
           "m“The only good is knowledge and the only evil is ignorance.” – Socrates", 
           "m“People often say that motivation doesn't last. Well, neither does bathing – that's why we recommend it daily.” – Zig Ziglar", 
           "m“My confidence comes from the daily grind - training my butt off day in and day out.” – Hope Solo"
-]
+];
 
 //filter(long way)
 function filter(array, testCallback) {
